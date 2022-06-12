@@ -4,3 +4,5 @@ const messages = ["Melhor começar trabalhando!",
 "Que tal jogar um jogo?", 
 "Dia de fazer um café da manhã mais caprichado!", 
 "Dia para começar passeando com o cachorro!"]
+
+export {messages}
