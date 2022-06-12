@@ -1,10 +1,10 @@
-#Mixed MEssages
-##Projeto Off-Platform do Codecademy
+# Mixed MEssages
+## Projeto Off-Platform do Codecademy
 
-###Descrição
+### Descrição
 Nesse projeto devemos construír uma função que retorna uma mensagem aleatória quando executada.
 
-###Ferramentas
+### Ferramentas
 + Javascript
 + NodeJS
 
