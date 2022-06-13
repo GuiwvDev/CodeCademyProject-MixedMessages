@@ -1,4 +1,4 @@
-# Mixed MEssages
+# Mixed Messages
 ## Projeto Off-Platform do Codecademy
 
 ### Descrição
